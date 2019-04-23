@@ -81,9 +81,6 @@ Note: Flush browser cache if it displays old logo.
 
 **Congratulations!** You have now customised the out-of-box developer portal with a shiny new look and feel.
 
-# Lab Video
-
-If you like to learn by watching, here is a short video on customising Apigee lightweight Developer Portal [https://youtu.be/TRhqt7L2Obs](https://youtu.be/TRhqt7L2Obs)
 
 # Earn Extra-points
 
@@ -103,7 +100,7 @@ That completes this hands-on lesson. In this simple lab you learned how to custo
 
 * Useful Apigee documentation links on Apigee lightweight portal customisation,
 
-    * Building your portal , [https://docs-new.apigee.com/portal](https://docs-new.apigee.com/portal)
+    * Building your portal , [https://docs-new.apigee.com/portal](https://docs.apigee.com/api-platform/publish/portal/build-integrated-portal)
 
 # Rate this lab
 
