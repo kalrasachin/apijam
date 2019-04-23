@@ -50,13 +50,13 @@ Apigee Developer Portal created in one of the previous labs. If not, jump back t
 
 ![image alt text](./media/image_4.2.png)
 
-4. Click on Save and Publish your portal.
+4. Click on Publish.
 
 ![image alt text](./media/image_4.3.png)
 
 5. Click on **Live Portal** to see logo changes. 
 
-![image alt text](./media/image_8.png)
+![image alt text](./media/image_8.2.png)
 
 Note: Flush browser cache if it displays old logo.
 
