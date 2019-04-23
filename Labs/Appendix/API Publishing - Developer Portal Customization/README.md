@@ -36,7 +36,7 @@ Apigee Developer Portal created in one of the previous labs. If not, jump back t
 
 ![image alt text](./media/image_2.png)
 
-![image alt text](./media/image_3.png)
+![image alt text](./media/image7.1.png)
 
 ## Change The Logo
 
@@ -54,7 +54,7 @@ Apigee Developer Portal created in one of the previous labs. If not, jump back t
 
 ![image alt text](./media/image_6.png)
 
-![image alt text](./media/image7.1.png)
+![image alt text](./media/image_7.png)
 
 5. Click on **Live Portal** to see logo changes. 
 
