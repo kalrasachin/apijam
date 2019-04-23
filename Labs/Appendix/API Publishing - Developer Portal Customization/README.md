@@ -16,7 +16,7 @@ In this lab, we will be updating out of the box theme with Google branding to un
 
 # Pre-requisites
 
-Apigee Developer Portal created in on of the previouslabs. If not, jump back to *Publishing APIs : Publish documentation* lab.
+Apigee Developer Portal created in one of the previous labs. If not, jump back to *Publishing APIs : Publish documentation* lab.
 
 # Instructions
 
@@ -54,7 +54,7 @@ Apigee Developer Portal created in on of the previouslabs. If not, jump back to 
 
 ![image alt text](./media/image_6.png)
 
-![image alt text](./media/image_7.png)
+![image alt text](./media/image7.1.png)
 
 5. Click on **Live Portal** to see logo changes. 
 
