@@ -44,17 +44,15 @@ Apigee Developer Portal created in one of the previous labs. If not, jump back t
 
 2. Go back to **{your_initials}_{api_proxy_name}**_portal overview screen and click on files section to upload the Google logo.
 
-![image alt text](./media/image_4.png)
+![image alt text](./media/image_4.1.png)
 
-3. Delete the *logo.png* file from the files list.
+3. Upload the logo which you downloaded earlier under the Primary logo. 
 
-![image alt text](./media/image_5.png)
+![image alt text](./media/image_4.2.png)
 
-4. Upload the Google logo that you have downloaded in earlier step,
+4. Click on Save and Publish your portal.
 
-![image alt text](./media/image_6.png)
-
-![image alt text](./media/image_7.png)
+![image alt text](./media/image_4.3.png)
 
 5. Click on **Live Portal** to see logo changes. 
 
