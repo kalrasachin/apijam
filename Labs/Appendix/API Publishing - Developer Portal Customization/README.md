@@ -16,7 +16,7 @@ In this lab, we will be updating out of the box theme with Google branding to un
 
 # Pre-requisites
 
-Apigee Developer Portal created in earlier lab exercise. If not, jump back to *API Publishing - Documentation* lab.
+Apigee Developer Portal created in on of the previouslabs. If not, jump back to *Publishing APIs : Publish documentation* lab.
 
 # Instructions
 
