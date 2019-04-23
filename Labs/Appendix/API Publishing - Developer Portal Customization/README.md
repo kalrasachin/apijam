@@ -26,15 +26,15 @@ Apigee Developer Portal created in one of the previous labs. If not, jump back t
 
 2. Select **Publish → Portals** in the side navigation menu.
 
-![image alt text](./media/image_0.png)
+![image alt text](./media/image_0.1.png)
 
 3. Click on **{your_initials}_{api_proxy_name}_portal** that you have created in earlier lab exercise.	
 
-![image alt text](./media/image_1.png)
+![image alt text](./media/image_1.0.png)
 
 4. Click on **Live Portal** link to access Apigee Developer Portal to see out of the box theme.
 
-![image alt text](./media/image_2.png)
+![image alt text](./media/image_2.0.png)
 
 ![image alt text](./media/image7.1.png)
 
