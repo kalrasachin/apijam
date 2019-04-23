@@ -60,58 +60,24 @@ Apigee Developer Portal created in one of the previous labs. If not, jump back t
 
 Note: Flush browser cache if it displays old logo.
 
-## Add Custom CSS
-
-1. Switch to **Theme Settings** page by selecting **Theme** from the drop down next to *Live Portal* link in the UI.
-
-![image alt text](./media/image_9.png)
-
-2. Replace the css mentioned in below screenshot with the code mentioned below,
-
-![image alt text](./media/image_10.png)
-
-```
-.navbar-default { /* modify the header treatment */
-  background-color: #fafafa;
-  border: none;
-}
-
-body nav.navbar-default ul.nav li a {
-    font-size: 14px;
-    color: #777;
-}
-
-body nav.navbar-default ul.nav li a:hover {
-    color: #222;
-    background-color: #fafafa;
-}
-
-.open > .dropdown-toggle.btn-default:focus {
-    color: #222;
-}
-```
-
-3. Publish the changes by clicking on **Publish** button at right bottom and Confirm the changes.
-
-	![image alt text](./media/image_11.png)
 
 ## Create Your Own Portal Content
 
 1. Let’s update the home page text by selecting **Pages** from dropdown.
 
-![image alt text](./media/image_12.png)
+![image alt text](./media/image_12.0.png)
 
 2. Click on **Home** to edit homepage content,
 
-![image alt text](./media/image_13.png)
+![image alt text](./media/image_12.2.png)
 
 3. Update h1 tag content to "**Apigee Edge**", Click **Publish** to save changes.
 
-![image alt text](./media/image_14.png)
+![image alt text](./media/image_14.0.png)
 
 4. Click on **Live Portal** to see header and home page content changes.
 
-![image alt text](./media/image_15.png)
+![image alt text](./media/image_15.0.png)
 
 **Congratulations!** You have now customised the out-of-box developer portal with a shiny new look and feel.
 
