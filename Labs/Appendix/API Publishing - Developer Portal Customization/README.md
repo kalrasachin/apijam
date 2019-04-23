@@ -71,7 +71,7 @@ Note: Flush browser cache if it displays old logo.
 
 ![image alt text](./media/image_12.2.png)
 
-3. Update h1 tag content to "**Apigee Edge**", Click **Publish** to save changes.
+3. Update h1 or h2 tag content. Click **Publish** to save changes.
 
 ![image alt text](./media/image_14.0.png)
 
