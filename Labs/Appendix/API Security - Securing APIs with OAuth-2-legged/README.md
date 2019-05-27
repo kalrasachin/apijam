@@ -97,7 +97,7 @@ Note: You’ll have to remove the Authorization header using the Assign Message 
 
 * Copy the values and store them somewhere safe.
 
-![image alt text](./media/image_8.png)	
+![image alt text](./media/image_8.1.png)	
 
 * Mac and Linux users, open Terminal and type the following command
 
