@@ -24,11 +24,11 @@ Authorization code is one of the most commonly used OAuth 2.0 grant types. The a
 
 * Go to [https://apigee.com/edge](https://apigee.com/edge) and log in. This is the Edge management UI. 
 
+* Download the pre-built OAuth proxy bundle from [here](../../../Resources/xx_oauth_code_grant.zip) 
+
 * Select **Develop > API Proxies** in the side navigation menu
 
 	![image alt text](./media/image_0.jpg)
-
-* Download the pre-built OAuth proxy bundle from [here](../../../Resources/xx_oauth_code_grant.zip) 
 
 * Click the **+Proxy** button 
 
@@ -36,16 +36,22 @@ Authorization code is one of the most commonly used OAuth 2.0 grant types. The a
 
 * Select **Proxy Bundle** option and click Next.
 
-	![image alt text](./media/image_2.png)
+	![image alt text](./media/image_2.1.png)
 
 * Now, choose the bundle that you downloaded earlier, rename the proxy in this format
 **_{your_initials}_**_oauthcodegrant and click **Next** and then Build	
 
   ![image alt text](./media/image_3.png)
 
+  ![image alt text](./media/image_4.1.png)
+  
+  ![image alt text](./media/image_4.2.png)
+
+  ![image alt text](./media/image_4.3.png)
+
 * Click on the API Proxy name.
 
-	![image alt text](./media/image_4.png)
+	![image alt text](./media/image_4.4.png)
 
 * Click on **Develop** and select default.
 
