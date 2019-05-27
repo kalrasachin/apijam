@@ -118,11 +118,11 @@ In order to get access to an API key you must register a developer App with the 
 
 * Modify the Get call to include the API Key we copied from the previous section as a query parameter called ‘apikey’.
 
-![image alt text](./media/image_9.png)
+![image alt text](./media/image_9.1.png)
 
 * You should see a success response similar to this -
 
-![image alt text](./media/image_10.jpg)
+![image alt text](./media/image_10.png)
 
 # Lab Video
 
