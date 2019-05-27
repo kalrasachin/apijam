@@ -106,11 +106,11 @@ In order to get access to an API key you must register a developer App with the 
 
 * Copy the URL for your API proxy. 
 
-	![image alt text](./media/image_6.jpg)
+![image alt text](./media/image_6.2.png)
 
 * Paste the link on the REST Client and make a **GET** call
 
-![image alt text](./media/image_7.jpg)
+![image alt text](./media/image_6.3.png)
 
 * You should see a failure response similar to this, indicating that the API Key Verification has failed -
 
