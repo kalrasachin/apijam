@@ -74,17 +74,16 @@ Authorization code is one of the most commonly used OAuth 2.0 grant types. The a
 
 	![image alt text](./media/image_9.png)
 
-* Click on **Edit**
+* Click on **Edit**. And under **Resources > API Proxy** section, click on **+ API Proxy**.
 
-	![image alt text](./media/image_10.png)
-
-* Now under **Resources > API Proxy** section, click on **+ API Proxy**.
-
-	![image alt text](./media/image_11.png)
+	![image alt text](./media/image_10.1.png)
+	
+	![image alt text](./media/image_10.2.png)
+				
 
 * Select the API Proxy and click **Save**.
+	![image alt text](./media/image_10.3.png)
 
-	![image alt text](./media/image_12.png)
 
 * Now select **Develop > API Proxies** in the side navigation menu
 
