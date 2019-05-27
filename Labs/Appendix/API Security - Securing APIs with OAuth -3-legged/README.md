@@ -82,6 +82,7 @@ Authorization code is one of the most commonly used OAuth 2.0 grant types. The a
 				
 
 * Select the API Proxy and click **Save**.
+
 	![image alt text](./media/image_10.3.png)
 
 
