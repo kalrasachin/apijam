@@ -20,7 +20,7 @@ Most typically, the client_credentials grant type is used when the app is also t
 
 * You have an API Proxy that is not currently secured.  If you do not have an API Proxy available for this lab, revisit the lab *API Design : Create a Reverse Proxy with OpenAPI Specification*.
 
-* You have the following created on Apigee Edge - an API Product, a Developer and an App. If not, jump back to *API Security : Securing APIs with API Key* lab.
+* You have created - an API Product, a Developer and an App on Apigee Edge. If not, jump back to *API Security : Securing APIs with API Key* lab.
 
 # Instructions
 
