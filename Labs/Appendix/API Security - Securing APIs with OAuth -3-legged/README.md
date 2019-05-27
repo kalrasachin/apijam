@@ -51,7 +51,7 @@ Authorization code is one of the most commonly used OAuth 2.0 grant types. The a
 
 	![image alt text](./media/image_4.4.png)
 
-* Click on **Develop** and select default.
+* Click on **Develop** and select default. Scroll towards the end of the xml file.
 
 	![image alt text](./media/image_5.png)
 
@@ -60,7 +60,7 @@ Authorization code is one of the most commonly used OAuth 2.0 grant types. The a
 	/v1/{your_initials}/oauth_ac
   ```
   
-	![image alt text](./media/image_6.png)
+	![image alt text](./media/image_6.1.png)
 
 * Now **Save** the proxy and **deploy** it to test environment.
 
