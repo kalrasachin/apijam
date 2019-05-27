@@ -73,16 +73,22 @@ The following defines some of the terms used to register apps and generate keys:
 In order to get access to an API key you must register a developer App with the API Product, and before you can register a developer App you must create a developer. Whilst this is typically one via the developer portal in a self service paradigm, for this lab we will do this via the Edge UI.
 
 * From the Apigee Edge Management UI, Using sidebar Navigation, go to **Publish → Developers**
+	![image alt text](./media/image_5.1.png)
 
 * Click the **+ Developer** button to add a new developer
+	![image alt text](./media/image_5.2.png)
 
-* Fill in the developer details and click create,
+* Fill in the developer details and click create.
 
 * The new developer should be listed on the ‘Developer’ page. Note that it shows the expanded view of the developer details.
 
 * From the Apigee Edge Management UI, Using sidebar Navigation, go to **Publish → Apps**
+	![image alt text](./media/image_5.3.png)
+
 
 * Click the **+ Apps** button to add a new App
+	![image alt text](./media/image_5.4.png)
+
 
 * In the ‘Developer App Details’ section, specify **{your_intitials}**_Employees App as the App name, and select your developer from the developer drop down. You may need to start typing your name in the text box to get it to appear.
 
@@ -91,6 +97,8 @@ In order to get access to an API key you must register a developer App with the 
 * Hit the save button and verify that your new App appears in the ‘Apps’ page
 
 * Click on your app to open it up, and then hit the show button next to ‘Consumer Key’ to reveal your API Key. Copy this value as we will need it to test the API.
+	![image alt text](./media/image_5.5.png)
+
 
 # Part 3 - Test access to the API using the API Key
 
