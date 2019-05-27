@@ -39,9 +39,7 @@ Authorization code is one of the most commonly used OAuth 2.0 grant types. The a
 	![image alt text](./media/image_2.1.png)
 
 * Now, choose the bundle that you downloaded earlier, rename the proxy in this format
-**_{your_initials}_**_oauthcodegrant and click **Next** and then Build	
-
-  ![image alt text](./media/image_3.png)
+**_{your_initials}_**_oauthcodegrant and click **Next** and then Build
 
   ![image alt text](./media/image_4.1.png)
   
