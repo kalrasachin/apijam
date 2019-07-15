@@ -176,6 +176,8 @@ We’ve attached a Populate Cache policy to what Apigee calls a **Conditional Ro
 
 * Add a **Lookup Cache** policy, changing the name to Lookup ID
 
+![image alt text](./media/image_8.2.png)
+
 **What have we done here?**
 
 We’ve attached a Lookup Cache policy to the response flow of our route. This policy will check the cache, by key name, for previously seeded data.  If it finds it, the data will be saved to a variable specified in the XML config.  The XML below represents a slightly revised version of the standard policy, specifying a cache key and variable name for storing the cached content.  For more information on this policy, see [Lookup Cache](https://docs.apigee.com/api-services/reference/lookup-cache-policy) in our docs.
@@ -201,12 +203,16 @@ We’ve attached a Lookup Cache policy to the response flow of our route. This p
 * Change the URL so that the following is appended to the end -- this will change your request to ask for a **specific employee record**, invoking the cache logic we’ve just applied.  
 
 ```
-/05d3c8cd-ee18-11e6-b5a4-122e0737977d
+/41be3def-8922-11e8-86ee-021e63aadcc4
 ```
 
 * Start a **New Trace Session** and click **Send**.
 
 * Your graph should look something like this, below.  Take note -- you have two new cache policies in effect.  One is populating the cache with the url suffix ```/{employee-id}``` -- and the other is looking up that value, by key name, in cache.  You can see proof of this in the assigned variable, employeePathID
+
+
+![image alt text](./media/image_8.3.png)
+
 
 * *Congratulations!*  You’ve done a few cool things here -- defined a custom key for your new cache, seeded it with some data from the client request, and retrieved that data later in the flow.  On retrieving this data from cache, you’ve assigned it to a flow variable.  In a real life scenario, you could use this flow variable to drive conditional logic, or otherwise take action on the data retrieved from cache.  Nice work!
 
