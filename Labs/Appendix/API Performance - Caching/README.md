@@ -29,7 +29,7 @@ Here’s a breakdown of the Apigee Edge caching policies:
   </tr>
   <tr>
     <td>ResponseCache</td>
-    <td>Uses a cache to cache the response from the backend resource. This reduces the number of requests to the resource. When the response is already available in cache, it is returned directly by Edge, without contacting the backend. ResponseCache policy.</td>
+    <td>Uses cache the response from the backend resource. This reduces the number of requests to the resource. When the response is already available in cache, it is returned directly by Edge, without contacting the backend. ResponseCache policy.</td>
   </tr>
   <tr>
     <td>PopulateCache</td>
@@ -37,11 +37,11 @@ Here’s a breakdown of the Apigee Edge caching policies:
   </tr>
   <tr>
     <td>LookupCache</td>
-    <td>Retrieve values that have been cached with the PopulateCache policy. LookupCache.</td>
+    <td>Retrieve values that have been cached with the PopulateCache policy.</td>
   </tr>
   <tr>
     <td>InvalidateCache</td>
-    <td>Purges values that have been cached by PopulateCache. Invalidate Cache policy.</td>
+    <td>Purges values that have been cached by PopulateCache.</td>
   </tr>
 </table>
 
@@ -102,7 +102,7 @@ You have an API proxy created in Apigee Edge. If not, jump back to the "Create R
 ```
 
 * This stipulates that the cache should timeout after 3600 seconds, or one hour.  Change this to read ‘60’.  This way, your cache will expire in one minute.
-
+![image alt text](./media/image_4.1.png)	
 
 **A Quick Note on Cache Expiry, Resources**
 
