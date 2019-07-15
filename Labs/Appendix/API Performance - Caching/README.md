@@ -176,7 +176,7 @@ We’ve attached a Populate Cache policy to what Apigee calls a **Conditional Ro
 
 * Add a **Lookup Cache** policy, changing the name to Lookup ID
 
-![image alt text](./media/image_8.2.png)
+![image alt text](./media/image_8.4.png)
 
 **What have we done here?**
 
