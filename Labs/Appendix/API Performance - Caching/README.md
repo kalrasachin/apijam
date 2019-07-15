@@ -145,7 +145,7 @@ You’ve improved the performance of your API with some clever caching of employ
 
 * Click **+ Step** on the **Request** side.
 
-	![image alt text](./media/image_8.png)
+	![image alt text](./media/image_8.1.png)
 
 * Add a **Populate Cache** policy, changing the name to Populate ID
 
