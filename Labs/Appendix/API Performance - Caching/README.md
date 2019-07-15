@@ -102,7 +102,7 @@ You have an API proxy created in Apigee Edge. If not, jump back to the "Create R
 ```
 
 * This stipulates that the cache should timeout after 3600 seconds, or one hour.  Change this to read ‘60’.  This way, your cache will expire in one minute.
-![image alt text](./media/image_4.1.png)	
+![image alt text](./media/image_4.11.png)	
 
 **A Quick Note on Cache Expiry, Resources**
 
